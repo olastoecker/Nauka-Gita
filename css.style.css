@@ -1,4 +1,14 @@
-.title {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color:rgb(5, 41, 41);
+/* Global */
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-stretch: semi-expanded;
+    padding-left: 50px;
 }
+
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+
